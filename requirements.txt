@@ -1,0 +1,8 @@
+soccerdata
+pandas
+numpy
+scipy
+scikit-learn
+plotly
+dash
+jupyter
