@@ -20,7 +20,7 @@ The notebook is organized into three chapters:
 Pulls and merges eight FBref stat categories (standard, shooting, passing, passing types, goal/shot creation, defense, possession, misc) into a single unified player dataframe of 2,346 player-seasons across 96 teams.
 
 ### Chapter 2 - Player Analysis
-- **Center of Gravity (COG)** — a custom metric quantifying where on the pitch each player operates, both in terms of touches and defensive actions
+- **Center of Gravity (COG)** - a custom metric quantifying where on the pitch each player operates, both in terms of touches and defensive actions
 - **K-Means Position Clustering** - data-driven reclassification of players into Defender / Wingback / Midfielder / Forward using within-team positional COG
 - **Interactive Player Scatter** - explore the full player pool by position, league, or team
 - **Player Radar Charts** - per-player stat profiles across key metrics
