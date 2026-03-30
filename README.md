@@ -1,6 +1,6 @@
 # An FBref Memoriam for Player Scouting and Team Analysis
 
-*After Opta sold out to FIFA and billion-dollar betting companies, spurning data democratization and creative outlets for the average football nerd, I wanted to take a good look at what FBref 2025/26 domestic season data remains accessible for us commoners to memorialize. If this sounds of any intrigue, join me in exploration!*
+*After Opta sold out to FIFA and billion-dollar betting companies, spurning data democratization and creative outlets for the average football nerd, I wanted to memorialize the FBref 2025/26 domestic season data that remains accessible for us commoners. If this sounds of any intrigue, join me in exploration! For questions or feedback, feel free to email: [idw2005@nyu.edu](idw2005@nyu.edu)*
 
 ---
 
