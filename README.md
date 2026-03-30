@@ -70,7 +70,7 @@ jupyter notebook fbref_memoriam_2026.ipynb
 | Purpose | Library |
 |---|---|
 | Football data | `soccerdata` |
-| Data wrangling | `pandas`, `numpy` |
+| Data Munging | `pandas`, `numpy` |
 | Statistics | `scipy` |
 | Clustering & KNN | `scikit-learn` |
 | Visualization | `plotly` |
