@@ -8,7 +8,7 @@
 
 This project is a full-stack football analytics notebook that scrapes, cleans, and visualizes player and team data from [FBref](https://fbref.com) via the [`soccerdata`](https://github.com/probberechts/soccerdata) library. It covers all five major European leagues - the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 - for the 2025/26 season.
 
-Most of the interactive visualizations were built via Dash/Plotly, which won't render when viewing the notebook on the Github website. I'd recommend downlaoding the notebook for yourself, or [visiting this website I made](https://fbref-visualizations.onrender.com/), using Dash and Render.com!
+Most of the interactive visualizations were built via Dash and Plotly, which won't render when viewed directly on Github. I'd recommend downloading the notebook and opening within your preferred IDE ***or*** [visiting this website I made](https://fbref-visualizations.onrender.com/), using Dash and Render.com!
 
 ---
 
