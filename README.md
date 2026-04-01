@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-This project is a full-stack football analytics notebook that scrapes, cleans, and visualizes player and team data from [FBref](https://fbref.com) via the [`soccerdata`](https://github.com/probberechts/soccerdata) library. It covers all five major European leagues - the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 - for the 2025/26 season.
+This project features a football analytics notebook that scrapes, cleans, and visualizes player and team data from [FBref](https://fbref.com) via the [`soccerdata`](https://github.com/probberechts/soccerdata) library. It covers all five major European leagues - the Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 - for a significant slice of the 2025/26 season.
 
 Most of the interactive visualizations were built via Dash and Plotly, which won't render when viewed directly on Github. I'd recommend downloading the notebook and opening within your preferred IDE ***or*** [visiting this website I made](https://fbref-visualizations.onrender.com/), using Dash and [Render.com](https://render.com/)!
 
@@ -17,7 +17,7 @@ Most of the interactive visualizations were built via Dash and Plotly, which won
 The notebook is organized into three chapters:
 
 ### Chapter 1 - Data Collection
-Pulls and merges eight FBref stat categories (standard, shooting, passing, passing types, goal/shot creation, defense, possession, misc) into a single unified player dataframe of 2,346 player-seasons across 96 teams.
+Pulls and merges eight FBref stat categories (standard stats, shooting, passing, passing types, goal/shot creation, defense, possession, miscellaneous) into a single unified player dataframe of 2,346 player-seasons across 96 teams.
 
 ### Chapter 2 - Player Analysis
 - **Center of Gravity (COG)** - a custom metric quantifying where on the pitch each player operates, both in terms of touches and defensive actions
